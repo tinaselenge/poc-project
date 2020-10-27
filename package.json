@@ -1,0 +1,26 @@
+{
+  "name": "poc-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "hello world"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinaselenge/poc-project.git"
+  },
+  "devDependencies": {
+    "chai": "4.1.2",
+    "mocha": "5.0.5"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinaselenge/poc-project/issues"
+  },
+  "homepage": "https://github.com/tinaselenge/poc-project#readme"
+}
